@@ -3,6 +3,11 @@
 public class Test {
 	
 	
-	"verändert zum testen"
+	"vereandert zum testen"
+	
+	public void Test2 {
+		
+		
+	}
 	
 }
